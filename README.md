@@ -5,7 +5,6 @@ Dozzle 을 활용한 로그 분석용 더미 프로젝트
 
 ## 아키텍처
 <img width="1265" height="586" alt="화면 캡처 2026-01-16 103803" src="https://github.com/user-attachments/assets/ef19fd27-978a-4f4a-ace6-fdd07f9959ec" />
- 
 
 현재 계획은 Dozzle을 커스텀하여 단순 로그 Viewer에서 로그 일간별 백업, 기간별 조회 이렇게 기능추가할 예정
 
